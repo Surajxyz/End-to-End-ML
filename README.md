@@ -5,8 +5,8 @@ This is my first project
 
 2.[Heroku Account](https://dashboard.heroku.com/login)
 
-3. Git Cli
+3.[Git Cli]
 
-4. Vscode IDEad
+4.[Vscode IDE]
 
 
